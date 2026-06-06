@@ -102,6 +102,16 @@ Enterprise-ready framework featuring:
 - Screenshot Capture
 - CI/CD Integration
 
+## ☕ Selenium Java Automation Framework
+Enterprise-ready framework featuring:
+- 📄 Page Object Model
+- ⚡ Parallel Execution
+- 🧪 TestNG / JUnit
+- 📊 Extent Reports
+- 📝 Log4j Logging
+- 📸 Screenshot Capture
+- 🔄 CI/CD Integration
+  
 ---
 
 ## 🤖 AI Automation Lab
