@@ -20,7 +20,7 @@ Name: Ashish Pandey
 Experience: 13+ Years
 
 Current Role:
-  Senior QA Automation Engineer
+  Lead QA Automation Engineer
 
 Core Expertise:
   - Test Automation
