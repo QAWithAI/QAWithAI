@@ -119,11 +119,12 @@ Automation solutions including:
 ### 🎓 Python for Everybody
 > 📌 Coursera | University of Michigan  
 > 🗓️ Completed: 2026
-> 
+> [https://www.coursera.org/learn/python/home/module/3]
 
 ### 🎓 Python Data Structures
 > 📌 Coursera | University of Michigan  
 > 🗓️ Completed: 2026
+> [https://www.coursera.org/learn/python-data/home/module/3]
 
 ### 🎓 DeepSeek & n8n Certification
 > 📌 Coursera /  Board Infinity
