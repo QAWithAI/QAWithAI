@@ -41,12 +41,15 @@ Domains:
 
 Current Learning:
   - Playwright + Python
+  - Playwright + Typescript
+  - Selenium + Java
+  - AccelQ
+  - Karate Framework
   - AI Automation
   - n8n
   - Prompt Engineering
-  - Promptfoo
   - Agentic AI
-  - LLM Evaluation
+
 ```
 
 ---
