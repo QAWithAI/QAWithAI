@@ -116,11 +116,29 @@ Automation solutions including:
 
 # 🏆 Certifications
 
-- 🎓 Python for Everybody
-- 🎓 Python Data Structures
-- 🎓 [![DeepSeek & n8n](https://img.shields.io/badge/DeepSeek%20%26%20n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white)](https://www.linkedin.com/in/YOUR_USERNAME/details/certifications/)
-- 🎓 Prompt Engineering
-- 🎓 AI Automation Learning Path
+### 🎓 Python for Everybody
+> 📌 Coursera | University of Michigan  
+> 🗓️ Completed: 2026
+> 
+
+### 🎓 Python Data Structures
+> 📌 Coursera | University of Michigan  
+> 🗓️ Completed: 2026
+
+### 🎓 DeepSeek & n8n Certification
+> 📌 Coursera /  Board Infinity
+> 🗓️ Completed: 2026
+> [https://www.coursera.org/account/accomplishments/verify/NLRDPITD21KJ]
+
+### 🎓 Google AI 
+> 📌 Coursera / Google
+> 🗓️ Completed: 2026
+> [https://www.coursera.org/account/accomplishments/specialization/3FQ5HBVYP6PD]
+
+### 🎓 Building with the Claude API
+> 📌 Antrophic / Antrophic
+> 🗓️ Completed: 2026
+> [https://verify.skilljar.com/c/8ufv9jdo75ru]
 
 ---
 
