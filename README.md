@@ -45,7 +45,7 @@ Current Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,eclipse,idea,java,ts,mysq"/>
 
 </div>
 
