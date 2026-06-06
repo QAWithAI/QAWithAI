@@ -118,7 +118,7 @@ Automation solutions including:
 
 - 🎓 Python for Everybody
 - 🎓 Python Data Structures
-- 🎓 DeepSeek & n8n Certification
+- 🎓 DeepSeek & n8n Certification[(https://www.coursera.org/account/accomplishments/verify/NLRDPITD21KJ)]
 - 🎓 Prompt Engineering
 - 🎓 AI Automation Learning Path
 
