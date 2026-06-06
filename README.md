@@ -29,6 +29,16 @@ Core Expertise:
   - Automation Framework Design
   - CI/CD Integration
 
+Domains:
+  - Banking & Financial Services
+  - Healthcare
+  - Telecom
+  - E-Commerce
+  - Roadside Assistance & Fleet Management
+  - ERP Systems
+  - SaaS Products
+  - IoT Connectivity
+
 Current Learning:
   - Playwright + Python
   - AI Automation
