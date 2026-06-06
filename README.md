@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ashish%20Pandey&fontAlignY=40&desc=Lead%20QA%20Automation%20Engineer%20%7C%20AI%20Automation%20Enthusiast&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,1a1a2e,16213e&height=200&section=header&text=Ashish%20Pandey&fontSize=70&fontColor=FF9933&animation=fadeIn&fontAlignY=38&desc=Lead%20QA%20Automation%20Engineer%20%7C%20AI%20Automation%20Enthusiast&descAlignY=60&descSize=20&descColor=b0c4de" width="100%"/>
 
 # Hi 👋 Welcome to My GitHub
 
