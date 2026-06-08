@@ -58,7 +58,7 @@ Current Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,eclipse,idea,java,ts,mysq"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,eclipse,idea,java,ts,mysq,AWS,Azure,n8n,AccelQ,Karate,SourceTree,VisualStudio"/>
 
 </div>
 
